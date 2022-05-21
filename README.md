@@ -9,7 +9,7 @@
 ### Contact Me [<img align="left" alt="nash | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/UFQFZNvGKH)
 
 ## I'm 15 years old and I'm a game cheat developer and I do reverse engineering!
--   👨‍💻 C# / Js / C++ / Python / Batch / Html
+-   👨‍💻 C# / C++ / Js / Python / Batch / Html
 -   :pencil2: Where there is an implication, there is love.
 -   👻 I am dev of cheats and phishing.
 -   :thought_balloon: If you need me, contact me on discord: nash#1337
